@@ -1,27 +1,19 @@
-# NewsApp
+## NewsApp
+Este projeto foi desenvolvido como parte de um desafio de estágio. Trata-se de uma página web responsiva criada com Angular, que reimplementa o layout e funcionalidades solicitadas no teste técnico.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.19.
+## 🎥 Demonstração
+<img src= https://github.com/annatld/midias/blob/main/c19.jpeg/>
 
-## Development server
+## 🎯 Objetivo do Desafio
+O objetivo do desafio era reimplementar uma página fornecida como referência, aplicando conceitos de desenvolvimento com Angular e responsividade.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 📱 Responsividade
 
-## Code scaffolding
+A aplicação se adapta a diferentes tamanhos de tela, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 💻 Tecnologias utilizadas no projeto
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJrpZUHoZUspJrtkZz2uAe9pSHPqSMKAZMew&s" width="24" /> **Angular**
+- <img src="https://www.svgrepo.com/show/306891/typescript.svg" width="25" /> **TypeScript**
+- <img src="https://cdn-icons-png.flaticon.com/512/121/121537.png" width="25" /> **HTML**
+- <img src="https://cdn-icons-png.flaticon.com/512/82/82127.png" width="25" /> **CSS**
